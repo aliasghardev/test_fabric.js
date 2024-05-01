@@ -71,7 +71,7 @@ const DragAndDropText = () => {
         left: 500,
         top: 150,
         width: 500,
-        height: 500,
+        height: 400,
         fill: boxColor,
         selectable: false,
         evented: false,
